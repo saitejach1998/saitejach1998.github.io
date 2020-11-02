@@ -1,0 +1,30 @@
+# site settings
+title: 
+subtitle: 
+email: youremailaddress@gmail.com
+description: "CS Undergrad: Rookie Whitehat: CTF Junkie: Future CISO;"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/saitejach1998
+gitlab_url: https://gitlab.com/saitejach1998
+googleplus_url: 
+linkedin_url: https://www.linkedin.com/in/saitejach98
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/saiteja_ch7
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
