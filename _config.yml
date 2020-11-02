@@ -3,7 +3,7 @@ title:
 subtitle: 
 email: youremailaddress@gmail.com
 description: "CS Undergrad: Rookie Whitehat: CTF Junkie: Future CISO;"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/index.html" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 
