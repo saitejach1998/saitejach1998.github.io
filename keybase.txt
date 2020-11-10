@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/craniaxe
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am saitejach1998 on github.
+  * I am an admin of https://saitejach1998.github.io
   * I am craniaxe (https://keybase.io/craniaxe) on keybase.
-  * I have a public key whose fingerprint is DAD1 DD4D 5AAB 55FA 23B9  69A7 295C 2B45 A36C 09AB
+  * I have a public key with fingerprint DAD1 DD4D 5AAB 55FA 23B9  69A7 295C 2B45 A36C 09AB
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
-```json
 {
   "body": {
     "key": {
@@ -21,59 +22,47 @@ To claim this, I am signing this object:
       "username": "craniaxe"
     },
     "service": {
-      "name": "github",
-      "username": "saitejach1998"
+      "hostname": "saitejach1998.github.io",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1604991085,
+  "ctime": 1605010985,
   "expire_in": 157680000,
-  "prev": "ab242d78e5bc00ede13b1ed71572a814e6f9e058060451edf1bfadceca314843",
-  "seqno": 2,
+  "prev": "4f2f4045ed3add117268306d3b58eaa3f72eaf77a05ae37e67db6c3c1b9d329a",
+  "seqno": 7,
   "tag": "signature"
 }
-```
 
-with the key [DAD1 DD4D 5AAB 55FA 23B9  69A7 295C 2B45 A36C 09AB](https://keybase.io/craniaxe), yielding the signature:
+which yields the signature:
 
-```
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMIcAnicrZJZSFRRGMfHbHOgbJsiM4pLFtFU59z9jgSiLZaBZVnaNpzlm5mrOaN3
-ZlwYEnqIViIqqreKjPY0aREJs/QhqYfMNqQeDKIwKCKCqKjOFXsIeuy8HM73/f8/
-/t/H6R6X7vGm/cjKvrC4f9natAd3jyY9wYtmVUqiMd4gBVJSJQxdsJ1DPBGstLkU
-kBBGGBsYM9PUZKZzijSDIqLrEFKwwhUAWUchIuuaohimQWVOdYUT1dQ4lVEItJAu
-5JJfCtnRMDjVjh1NCCwnHHOuco0QqmnCr1BLt4ghWxqTqaoRRWfIIlQYI7G46xDh
-KInDIjsmauIRHIr3D/1/zp0cwikMLIPJYGGGNYIoIAFEAIBFAANbrjAOTpRUgVAz
-h0RtUg/SDr8kqrU2A3exw92wnYgk6d+OOLETUEFYBFuW6doSDdVuvQ5ocJgQpHaU
-iyUKYy04cTsWlQJYKFnCdhFYR6plYWRqfgnqq20Hgrar0AzdROL4pWoHagWSUFmV
-uWGCRhlCwAErFAM3hFImJlZBD1mANBMJoCYaIUxDhDNgRMGqqSqSO1NNNCYFZBGT
-hN30djhKEklHDHyvc8tIT5rXM3rUCPdzebwZE/58uVRkrGf/SSsn49L9nLxD3WO+
-PGt51VE5qWnuh80/yflnMXPQ3p3Zoz7NndHIzlXR1imH8qb49lxr/VmcqDDON60t
-+MRaD7SfmlGyDjZuOdO3//OmJxuSJ7JrXpcfeHn4oVOQXH7rnXy3aHJRUXJbT1lX
-i6fjx5G3+rH3Fd1tWZETdY27bmRlTrzSnzsi9eLgQAlVvHbp8zXZmflthZfnTTqe
-8hVf350+q7/v1+nas/d2GM1d7+bsXTo78H28Ou/mvsFfq77dHnzc/hVPY729jfUL
-HhVO99W3H/7oV68v6S0d19mcb1xdv3XFwKv8ZVOXHFNmlX2Lz+SjfPNXr8zdWV5Q
-6GtZeKfs+5tLvwGuoDnq
-=CwQg
+yMIuAnicrVJdSFRBGN0tLd1KFAoyheDWQ6bZnTs792cpCkVK8CELKczaZu7M3b1l
+d7fdu1sq0lOpIVH0IBVSWCCaFUIhYoKW/fgTlkFFRT5EqURRYQXlT3Ot3npsXob5
+OOd85xymb8l8l8c9tSKzZf2LgmL3YG9TzOVvPZ5VJZAQrRB8VcIBNnexcsqitv+A
+SQWfIAIRAAUAXVWRpMuUiEghIpZlZkAAKWRMkkUDSzKCUFEVIlEiQ4q9KqJEEg2G
+DJnDhRzBMK0Ai4QjpmVzWYopoNRLEcYEIc6HRJM1rEga0iXiRRjKuqhhwonBUNRh
+cHMER1muGeIz/vDP2fsH/j/7js3JQZ1pii4xDegAYZEwkQuKjDHADShAc4BRFrHw
+QcbRegRbJj7ChOocgU/jps6cYp0kfxBRbNpsP9aDQNPU3IBpB2Pkd7RwJGSH9FA5
+BwVtOxz1OSJ2RdhhHWbE/0fPT0yL8ko5I84iUTNkCT7AkbptOguAzO0BUVNRjsCO
+hM0I85sOAimyKvLj7GFxLuk1JMMrehGjEFPKK5NkFYoyhQSpDGNoKBLDhqJgEWEG
+FSYrvCgd6oBoFEqa01CUHbJCgk/hNnHAyWYGLGzHIjz+7Z6yBJfb41qQOM/5ai5P
+curfD3hicOHstpOlidNj3bpnubZhwrrfs/OpP3PZq5Gk0vGE+vq8Nyc9/cdeV88U
+1eQoN+smy2laM3S3KxvXbErt89Aze/wjwalr7x4VftzbUPBl6fHx96v3D0itCT9v
+7NsytD0/8PZUcmXX5w93E5943BmLLzZcfHQhu2OoO/7wetv9l5SkfBvpqF/0YPfo
+qvbmVPX55tPDYNDuLHlcdEb6MVr3IN/nWdO/tbTne+Js1ljms8sH1xmd6fdqweQK
+qWlypmR48Vqx5dL4ra0dKecLu7N2JeWNy1VF1RVJdwq+NrZl5++w+j+hgbIP8Yb0
+RqFXy6g9V1xTmRbr+zy68ujwlatlbzZ2TUyf/QXNKkfE
+=ekhc
 -----END PGP MESSAGE-----
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the website account by posting this as a txt.
+View my publicly-auditable identity here: https://keybase.io/craniaxe
 
-### My publicly-auditable identity:
-
-https://keybase.io/craniaxe
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id craniaxe
-```
+==================================================================
